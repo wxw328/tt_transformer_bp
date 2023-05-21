@@ -1,0 +1,12 @@
+﻿  contract.cpp
+  fc_bwd.cpp
+  order_control.cpp
+  test.cpp
+C:\Users\22642\Desktop\TT-MutiFPGA\tranformer-bwd\tranformer-bwd\test.cpp(7,12): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\22642\Desktop\TT-MutiFPGA\tranformer-bwd\tranformer-bwd\test.cpp(25): message : 查看对正在编译的函数 模板 实例化“void load_file<float>(T *,const char *,int)”的引用
+          with
+          [
+              T=float
+          ]
+  正在生成代码...
+  tranformer-bwd.vcxproj -> C:\Users\22642\Desktop\TT-MutiFPGA\tranformer-bwd\x64\Debug\tranformer-bwd.exe
