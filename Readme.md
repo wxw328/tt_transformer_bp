@@ -1,4 +1,4 @@
-#### Readme
+# tt_transformer_bp
 
 This is a basic C++ version for fine-grained path design of a tensorized fully-connected layer using visual studio 2022.
 
